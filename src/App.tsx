@@ -1,6 +1,7 @@
 import React from "react";
+import { Format } from "./components";
 const App = (): JSX.Element => {
-  return <div>Test</div>;
+  return <Format />;
 };
 
 export default App;
