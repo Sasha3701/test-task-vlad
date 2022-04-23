@@ -1,3 +1,3 @@
-import Format from './Format';
+import AutocompleteInput from './AutocompleteInput';
 
-export { Format }
+export { AutocompleteInput }

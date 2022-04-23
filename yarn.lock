@@ -2207,6 +2207,11 @@ faye-websocket@^0.11.3:
   dependencies:
     websocket-driver ">=0.5.1"
 
+fetch-jsonp@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/fetch-jsonp/-/fetch-jsonp-1.2.1.tgz#a3ea630a992ae594cfbf5676e7f5fe4d2f8f03aa"
+  integrity sha512-5UwejksxssYwlwl/9OhEQU+OrVaxdChOQntpJO/GUw6NpfPS6fd08fPvbNOq0Ym6hxfLWD6cGN0Ln/V/hWcluw==
+
 fill-range@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
@@ -3475,6 +3480,11 @@ react-dom@^18.0.0:
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.21.0"
+
+react-tiny-popover@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/react-tiny-popover/-/react-tiny-popover-7.0.1.tgz#efb396cae335f00a0767ad98b9579d28744aec9e"
+  integrity sha512-uV+nTZXkCtfPFQtoKwbfX8waaU7+b8LEOoyOUjtmRxqnH3KLX1FkPm7RU+RC8eXxtOe4rC1cuhOIbQFcc71vQQ==
 
 react@^18.0.0:
   version "18.0.0"

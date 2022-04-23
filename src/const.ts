@@ -1,0 +1,1 @@
+export const BASE_URL = "https://kladr-api.ru/api.php?contentType=city&limit=10&query=";
